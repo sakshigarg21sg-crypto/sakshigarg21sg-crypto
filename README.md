@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**sakshigarg21sg-crypto/sakshigarg21sg-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Sakshi!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BCA AI & Data Science Student at K.R. Mangalam University.
+- Currently learning Python, Linux, Git and GitHub.
+- Interested in Artificial Intelligence, Data Science and UI/UX Design.
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), HTML |
+| Tools | Git, GitHub, VS Code |
+| Concepts | Linux, APIs, Markdown |
+
+## Featured Projects
+
+- CSE103 Lab Projects
+- Git workflows, API interaction and Markdown documentation.
+
+## Currently Working On
+
+- Semester 1 Lab Projects
+- Learning Python and problem solving.
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sakshi-garg-481979408
+  
+
